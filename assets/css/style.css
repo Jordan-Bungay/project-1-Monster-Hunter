@@ -22,3 +22,8 @@ header {
     z-index: 100;
     width: 100%;
 }
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
