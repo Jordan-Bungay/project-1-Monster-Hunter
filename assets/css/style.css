@@ -22,10 +22,7 @@ header {
     z-index: 100;
     width: 100%;
     display: flex;
-}
-
-header li {
-display: inline-block;
+    top: 0;
 }
 
 header a {
@@ -37,4 +34,9 @@ header a {
 #navigation-links {
     list-style-type: none;
     letter-spacing: 1px;
+}
+
+/* Home section */
+#home-section {
+    margin-top: 82px;
 }
