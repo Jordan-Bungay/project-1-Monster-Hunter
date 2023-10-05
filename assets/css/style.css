@@ -21,14 +21,20 @@ header {
     position: fixed;
     z-index: 100;
     width: 100%;
+    display: flex;
+}
+
+header li {
+display: inline-block;
 }
 
 header a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 15px;
 }
 
-#menu {
+#navigation-links {
     list-style-type: none;
     letter-spacing: 1px;
 }
