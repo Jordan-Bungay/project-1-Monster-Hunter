@@ -1,4 +1,11 @@
+/* Font family */
+@import url('https://fonts.cdnfonts.com/css/monster-hunter');
+
 /* Asterisk wildcard selector/general styles */
 * {
     margin: 0;
+}
+
+body {
+    font-family: 'Monster Hunter', sans-serif;;
 }
