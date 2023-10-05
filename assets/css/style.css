@@ -27,3 +27,8 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+
+#menu {
+    list-style-type: none;
+    letter-spacing: 1px;
+}
