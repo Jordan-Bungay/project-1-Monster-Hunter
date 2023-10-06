@@ -46,3 +46,15 @@ nav {
 #home-section {
     margin-top: 82px;
 }
+
+/* For screen sizes 768px + */
+@media screen and (min-width: 768px) {
+    #navigation-links {
+        display: flex;
+        padding-left: 270px;
+    }
+
+    header li {
+        padding: 10px;
+    }
+}
