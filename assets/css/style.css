@@ -42,6 +42,11 @@ nav {
     letter-spacing: 1px;
 }
 
+header li a:hover {
+    color: #000000;
+    background-color: #ffffff;
+}
+
 /* Home section */
 #home-section {
     margin-top: 82px;
