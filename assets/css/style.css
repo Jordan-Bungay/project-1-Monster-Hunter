@@ -54,7 +54,7 @@ header li a:hover {
 
 /* Footer */
 footer {
-    background-color: lightblue;
+    background-color: #000000;
 }
 
 footer ul {
@@ -68,6 +68,10 @@ footer ul {
 footer li {
     padding: 5px;
     font-size: large;
+}
+
+footer a {
+    color: #ffffff;
 }
 
 /* For screen sizes 768px + */
