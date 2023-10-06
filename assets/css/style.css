@@ -48,7 +48,7 @@ header li a:hover {
 }
 
 /* Home section */
-#home-section {
+#monster-hunter {
     margin-top: 82px;
 }
 
@@ -78,7 +78,7 @@ footer a {
 @media screen and (min-width: 768px) {
     #navigation-links {
         display: flex;
-        padding-left: 270px;
+        padding-left: 250px;
     }
 
     header li {
