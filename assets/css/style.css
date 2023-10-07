@@ -58,7 +58,6 @@ footer div {
     text-align: center;
     letter-spacing: 1px;
     padding-top: 10px;
-    background-color: rgba(255, 255, 255, .5);
 }
 
 footer h1 {
@@ -95,6 +94,18 @@ footer a {
 /* Form */
 form {
     padding-top: 20px;
+}
+
+#name-email {
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.join-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background-color: #ffffff;
+    text-transform: uppercase;
 }
 
 /* For screen sizes 768px + */
