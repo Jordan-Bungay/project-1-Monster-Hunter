@@ -52,6 +52,12 @@ header li a:hover {
     margin-top: 82px;
 }
 
+#home-background-image {
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+}
+
 /* Footer */
 footer div {
     font-size: 13px;
