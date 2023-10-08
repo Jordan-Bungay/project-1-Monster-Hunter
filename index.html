@@ -45,80 +45,84 @@
     <footer id="contact">
         <!-- Form -->
         <section id="form-background-image">
-            <div id="name-email">
+            <div class="guild-form">
                 <h1>Want to join the hunt?</h1>
                 <h3>Join the guild by filling in the form below for regular updates!</h3>
                 <h4>Or click on the social media links at the bottom of the page!</h4>
                 <form>
-                    <label for="first_name">First Name</label>
-                    <input type="text" name="first_name" id="first_name" class="text-input" required>
+                    <label for="first_name" id="first-name">First Name</label>
+                    <input type="text" name="first_name" class="user-details" required>
                     <br>
-                    <label for="last_name">Last Name</label>
-                    <input type="text" name="last_name" id="last_name" class="text-input" required>
+                    <label for="last_name" id="last-name">Last Name</label>
+                    <input type="text" name="last_name" class="user-details" required>
                     <br>
                     <label for="email_address">Email Address</label>
-                    <input type="email" name="email_address" id="email_address" class="text-input" required>
+                    <input type="email" name="email_address" class="user-details" required>
                     <br>
-                    <div>
+                    <div class="weapon-choice">
                         <div>
-                            <label for="great_sword">Great Sword</label>
-                            <input type="radio" name="weapon_choice" id="great-sword" value="great_sword" required checked>
+                            <div>
+                                <label for="great_sword">Great Sword</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="great_sword" required checked>
+                            </div>
+                            <div>
+                                <label for="sword_and_shield">Sword and Shield</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="sword_and_shield" required checked>
+                            </div>
+                            <div>
+                                <label for="dual_blades">Dual Blades</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="dual_blades" required checked>
+                            </div>
+                            <div>
+                                <label for="long_sword">Long Sword</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="long_sword" required checked>
+                            </div>
+                            <div>
+                                <label for="hammer">Hammer</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="hammer" required checked>
+                            </div>
+                            <div>
+                                <label for="hunting_horn">Hunting Horn</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="hunting_horn" required checked>
+                            </div>
+                            <div>
+                                <label for="lance">Lance</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="lance" required checked>
+                            </div>
+                            <div>
+                                <label for="gunlance">Gunlance</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="gunlance" required checked>
+                            </div>
                         </div>
                         <div>
-                            <label for="sword_and_shield">Sword and Shield</label>
-                            <input type="radio" name="weapon_choice" id="sword-and-shield" value="sword_and_shield" required checked>
-                        </div>
-                        <div>
-                            <label for="dual_blades">Dual Blades</label>
-                            <input type="radio" name="weapon_choice" id="dual-blades" value="dual_blades" required checked>
-                        </div>
-                        <div>
-                            <label for="long_sword">Long Sword</label>
-                            <input type="radio" name="weapon_choice" id="long-sword" value="long_sword" required checked>
-                        </div>
-                        <div>
-                            <label for="hammer">Hammer</label>
-                            <input type="radio" name="weapon_choice" id="hammer" value="hammer" required checked>
-                        </div>
-                        <div>
-                            <label for="hunting_horn">Hunting Horn</label>
-                            <input type="radio" name="weapon_choice" id="hunting-horn" value="hunting_horn" required checked>
-                        </div>
-                        <div>
-                            <label for="lance">Lance</label>
-                            <input type="radio" name="weapon_choice" id="lance" value="lance" required checked>
-                        </div>
-                        <div>
-                            <label for="gunlance">Gunlance</label>
-                            <input type="radio" name="weapon_choice" id="gunlance" value="gunlance" required checked>
-                        </div>
-                        <div>
-                            <label for="switch_axe">Switch Axe</label>
-                            <input type="radio" name="weapon_choice" id="switch-axe" value="switch_axe" required checked>
-                        </div>
-                        <div>
-                            <label for="charge_blade">Charge Blade</label>
-                            <input type="radio" name="weapon_choice" id="charge-blade" value="charge_blade" required checked>
-                        </div>
-                        <div>
-                            <label for="insect_glaive">Insect Glaive</label>
-                            <input type="radio" name="weapon_choice" id="insect-glaive" value="insect_glaive" required checked>
-                        </div>
-                        <div>
-                            <label for="bow">Bow</label>
-                            <input type="radio" name="weapon_choice" id="bow" value="bow" required checked>
-                        </div>
-                        <div>
-                            <label for="light_bowgun">Light Bowgun</label>
-                            <input type="radio" name="weapon_choice" id="light-bowgun" value="light_bowgun" required checked>
-                        </div>
-                        <div>
-                            <label for="heavy_bowgun">Heavy Bowgun</label>
-                            <input type="radio" name="weapon_choice" id="heavy-bowgun" value="heavy_bowgun" required checked>
-                        </div>
-                        <div>
-                            <label for="undecided">Undecided</label>
-                            <input type="radio" name="weapon_choice" id="undecided" value="undecided" required checked>
+                            <div>
+                                <label for="switch_axe">Switch Axe</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="switch_axe" required checked>
+                            </div>
+                            <div>
+                                <label for="charge_blade">Charge Blade</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="charge_blade" required checked>
+                            </div>
+                            <div>
+                                <label for="insect_glaive">Insect Glaive</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="insect_glaive" required checked>
+                            </div>
+                            <div>
+                                <label for="bow">Bow</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" required checked>
+                            </div>
+                            <div>
+                                <label for="light_bowgun">Light Bowgun</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="light_bowgun" required checked>
+                            </div>
+                            <div>
+                                <label for="heavy_bowgun">Heavy Bowgun</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="heavy_bowgun" required checked>
+                            </div>
+                            <div>
+                                <label for="undecided">Undecided</label>
+                                <input type="radio" name="weapon_choice" class="weapon-choice-button" value="undecided" required checked>
+                            </div>
                         </div>
                     </div>
                     <button type="submit" class="join-button">Recruit me!</button>
