@@ -31,9 +31,24 @@ header a {
     font-size: 15px;
 }
 
+header nav li {
+    margin-bottom: 15px;
+}
+
 .navigation-links {
     list-style-type: none;
     letter-spacing: 1px;
+    padding: 0;
+    padding-bottom: 2px;
+}
+
+/* Toggle button drop down */
+nav {
+    position: absolute;
+    background-color: #000000;
+    width: 100%;
+    text-align: center;
+    display: none;
 }
 
 /* Home section */
