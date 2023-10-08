@@ -46,15 +46,6 @@ header nav li {
 }
 
 /* Toggle button drop down */
-nav {
-    position: absolute;
-    background-color: #000000;
-    width: 100%;
-    text-align: center;
-    display: none;
-    top: 100%;
-}
-
 #drop-down-button:checked~nav {
     display: block;
 }
@@ -137,7 +128,7 @@ form {
     text-transform: uppercase;
 }
 
-@media screen and (min-width:600px) {
+@media screen and (min-width:768px) {
     /* Header */
     #logo {
         width: 80px;
@@ -181,5 +172,21 @@ form {
         color: #000000;
         background-color: #ffffff;
         padding: 5PX;
+    }
+
+    .drop-down-button-label {
+        display: none;
+    }
+}
+
+@media screen and (max-width:767px) {
+    /* Toggle button drop down */
+    nav {
+        position: absolute;
+        background-color: #000000;
+        width: 100%;
+        text-align: center;
+        display: none;
+        top: 100%;
     }
 }
