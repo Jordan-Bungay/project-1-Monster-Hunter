@@ -99,14 +99,6 @@ header nav li {
     color: #001747;
 }
 
-.introduction h1 {
-    font-size: xx-large;
-}
-
-.dramatic-words {
-    font-size: x-large
-}
-
 /* Footer */
 footer h1 {
     text-align: center;
@@ -240,6 +232,10 @@ footer i {
 
     #monster-hunter h4 {
         padding-bottom: 10px;
+    }
+
+    .dramatic-words {
+        font-size: 40px;
     }
 }
 
