@@ -75,6 +75,8 @@ header nav li {
     opacity: 0.6;
 }
 
+
+
 /* Footer */
 footer h1 {
     padding-bottom: 10px;
@@ -82,7 +84,7 @@ footer h1 {
     letter-spacing: 2px;
 }
 
-footer h3, h4 {
+.form-introduction {
     padding-bottom: 5px;
     text-align: center;
     letter-spacing: 1px;
