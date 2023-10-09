@@ -99,6 +99,14 @@ header nav li {
     color: #001747;
 }
 
+.introduction h1 {
+    font-size: xx-large;
+}
+
+.dramatic-words {
+    font-size: x-large
+}
+
 /* Footer */
 footer h1 {
     text-align: center;
