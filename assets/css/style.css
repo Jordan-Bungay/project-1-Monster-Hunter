@@ -99,6 +99,15 @@ header nav li {
     color: #001747;
 }
 
+/* Monsters section */
+
+
+/* Weapons section */
+
+
+/* Areas section */
+
+
 /* Footer */
 footer h1 {
     text-align: center;
@@ -106,6 +115,7 @@ footer h1 {
 
 .form-introduction {
     text-align: center;
+    letter-spacing: 1px;
 }
 
 /* Form background image */
