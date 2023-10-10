@@ -21,6 +21,26 @@ body {
     letter-spacing: 1px;
 }
 
+.images {
+    width: 100%;
+}
+
+.section-content {
+    width: 100%;
+    text-align: center;
+    font-size: 90%;
+}
+
+.title {
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.information {
+    padding: 5px;
+    letter-spacing: 1px;
+}
+
 /* Header */
 #logo {
     width: 80px;
