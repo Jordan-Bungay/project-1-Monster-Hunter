@@ -101,7 +101,7 @@ header nav li {
 
 /* Monsters and Weapons section */
 #monsters {
-    padding-top: 40px;
+    padding-top: 90px;
 }
 
 .images {
@@ -134,10 +134,21 @@ header nav li {
     width: 70%;
 }
 
-/* Areas section */
+/* Weapons section unique rules */
+#weapons {
+    padding-top: 90px;
+}
 
+/* Areas section */
+#areas {
+    padding-top: 90px;
+}
 
 /* Footer */
+#contact {
+    padding-top: 90px;
+}
+
 footer h1 {
     text-align: center;
 }
