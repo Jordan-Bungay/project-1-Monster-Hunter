@@ -139,8 +139,18 @@ header nav li {
     padding-top: 90px;
 }
 
+#weapons-title {
+    padding-top: 50px;
+}
+
 #weapons-background {
     background-color: #c0c6c7;
+}
+
+#weapons-image {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 90%;
 }
 
 /* Areas section */
@@ -294,6 +304,10 @@ footer i {
 
     /* Monsters and Weapons section */
     #monsters {
+        font-size: xx-large;
+    }
+
+    #weapons {
         font-size: xx-large;
     }
 
