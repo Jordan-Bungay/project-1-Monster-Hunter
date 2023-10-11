@@ -149,18 +149,19 @@ header nav li {
 
 #weapons-image {
     padding-top: 50px;
-    padding-bottom: 50px;
     width: 90%;
 }
 
 /* Areas section */
 #areas {
     padding-top: 90px;
+    background-color: #c0c6c7;
 }
 
 /* Footer */
 #contact {
     padding-top: 90px;
+    background-color: #c0c6c7;
 }
 
 footer h1 {
@@ -324,6 +325,8 @@ footer i {
         height: 70%;
         width: 70%;
     }
+
+    /* Areas */
 }
 
 @media screen and (max-width:767px) {
