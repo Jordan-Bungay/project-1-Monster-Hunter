@@ -21,26 +21,6 @@ body {
     letter-spacing: 1px;
 }
 
-.images {
-    width: 100%;
-}
-
-.section-content {
-    width: 100%;
-    text-align: center;
-    font-size: 90%;
-}
-
-.title {
-    padding: 10px;
-    letter-spacing: 2px;
-}
-
-.information {
-    padding: 5px;
-    letter-spacing: 1px;
-}
-
 /* Header */
 #logo {
     width: 80px;
@@ -119,11 +99,40 @@ header nav li {
     color: #001747;
 }
 
-/* Monsters section */
+/* Monsters and Weapons section */
+#monsters {
+    padding-top: 40px;
+}
 
+.images {
+    width: 100%;
+}
 
-/* Weapons section */
+.section-content {
+    width: 100%;
+    text-align: center;
+    font-size: 90%;
+}
 
+.title {
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.information {
+    padding: 5px;
+    letter-spacing: 1px;
+}
+
+#monster-icons {
+    height: 67%;
+    width: 67%;
+}
+
+#small-monsters {
+    height: 70%;
+    width: 70%;
+}
 
 /* Areas section */
 
@@ -266,6 +275,25 @@ footer i {
 
     .dramatic-words {
         font-size: 40px;
+    }
+
+    /* Monsters and Weapons section */
+    #monsters {
+        font-size: xx-large;
+    }
+
+    .part-2 {
+        display: flex;
+        width: 100%;
+    }
+
+    .images-50 {
+        width: 50%;
+    }
+
+    #small-monsters {
+        height: 70%;
+        width: 70%;
     }
 }
 
