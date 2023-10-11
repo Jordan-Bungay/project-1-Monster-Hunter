@@ -159,11 +159,6 @@ header nav li {
 }
 
 /* Footer */
-#contact {
-    padding-top: 90px;
-    background-color: #c0c6c7;
-}
-
 footer h1 {
     text-align: center;
 }
@@ -312,7 +307,7 @@ footer i {
         font-size: xx-large;
     }
 
-    .part-2 {
+    .side-by-side {
         display: flex;
         width: 100%;
     }
@@ -327,7 +322,38 @@ footer i {
     }
 
     /* Areas */
-    
+    #areas {
+        font-size: xx-large;
+    }
+
+    #last-line {
+        padding-bottom: 40px;
+    }
+
+    .areas-image-size {
+        width: 40%;
+        height: 40%;
+    }
+
+    #ancient-forest {
+        padding-left: 27px;
+    }
+
+    #rotten-vale {
+        padding-left: 87px;
+    }
+
+    #elders-recess {
+        padding-left: 58px;
+    }
+
+    .areas-side-by-side {
+        display: flex;
+        width: 100%;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-bottom: 30px;
+    }
 }
 
 @media screen and (max-width:767px) {
