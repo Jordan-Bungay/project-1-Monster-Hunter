@@ -158,7 +158,20 @@ header nav li {
     background-color: #c0c6c7;
 }
 
+.images {
+    width: 100%;
+}
+
+.areas-heading {
+    padding: 20px;
+}
+
 /* Footer */
+#contact {
+    padding-top: 25px;
+    background-color: #c0c6c7;
+}
+
 footer h1 {
     text-align: center;
 }
