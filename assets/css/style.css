@@ -137,6 +137,9 @@ header nav li {
 /* Weapons section unique rules */
 #weapons {
     padding-top: 90px;
+}
+
+#weapons-background {
     background-color: #c0c6c7;
 }
 
