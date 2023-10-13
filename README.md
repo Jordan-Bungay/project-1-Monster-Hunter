@@ -4,6 +4,10 @@ This Monster hunter website is for the gaming community, to showcase the game an
 
 The sections on this website will give you a peak into the games purpose, types of monsters you will encounter, weapons you can make, the areas you can explore and a form to be able to join the social media communities for more content.
 
+![Preview for the website on different screen sizes](assets/readme-assets/Website-preview.png)
+
+### The live website can be seen by clicking [here](https://jordan-bungay.github.io/project-1-Monster-Hunter/)
+
 ## Credit
 
 * Font url was taken from "https://www.cdnfonts.com/monster-hunter.font"
