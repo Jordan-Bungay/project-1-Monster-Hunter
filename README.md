@@ -32,16 +32,15 @@ For the users, I want them to see brief introduction to what the game entails wi
 
 ### Structure
 
-
+The structure of this website is in a long single page with different sections to scroll to, as it is better for the user experience when being introduced to a game for the first time. In the header I have the navigation bar that follows you down the page making it easy to navigate to any section wherever you are on the page.
 
 **Website Sections:**
 
-1. **_:_** A simple introduction about myself.
-2. **_:_** My work histories are displayed in reverse chronological order.
-3. **_:_** My education history is displayed in reverse chronological order.
-4. **_:_** Four focus areas are divided into boxes, which include my professional skillset, language proficiency, technical languages, and technical tools that I am familiar with.
-5. **_:_** A contact page featuring basic contact information, and a contact form to contact me via the webpage.
-6. **_:_** This is not the main section of the website but rather an ending to the website with social media links and copywriting information.
+1. **_Monster Hunter (home/first section):_** Brief introduction to the game and what it's about.
+2. **_Monsters:_** The monsters section show cases the kind of monsters you will encounter.
+3. **_Weapons:_** The weapons section show cases the differet types of weapons you can create.
+4. **_Areas:_** The Areas section show cases the different kinds of areas you will go to.
+5. **_Contact:_** The contact section gives you the input fields for basic user information and a bit of fun with choosing a weapon type, there is also the social media links you can click on to go straight to the page.
 
 ### Skeleton
 
