@@ -24,11 +24,11 @@ The goal of this website is to get people interested in this game and to get rec
 
 ### Strategy
 
-
+I want the website to be user-friendly and easy to use on all platforms, the users need to be able to navigate through the website and get the information and content they have come for without difficulty.
 
 ### Scope
 
-
+For the users, I want them to see brief introduction to what the game entails without having too much information but enough to get them wanting more. Having a way of joining a social community to extra content is a good way of making it so they are then actively looking rather than throwing it in their face. Having lots of pictures but having the balance between the text and images is key.
 
 ### Structure
 
