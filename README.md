@@ -8,6 +8,55 @@ The sections on this website will give you a peak into the games purpose, types 
 
 ### The live website can be seen by clicking [here](https://jordan-bungay.github.io/project-1-Monster-Hunter/)
 
+## UX
+
+
+
+## User stories
+
+
+
+### Strategy
+
+
+
+### Scope
+
+
+
+### Structure
+
+
+
+**Website Sections:**
+
+1. **_:_** A simple introduction about myself.
+2. **_:_** My work histories are displayed in reverse chronological order.
+3. **_:_** My education history is displayed in reverse chronological order.
+4. **_:_** Four focus areas are divided into boxes, which include my professional skillset, language proficiency, technical languages, and technical tools that I am familiar with.
+5. **_:_** A contact page featuring basic contact information, and a contact form to contact me via the webpage.
+6. **_:_** This is not the main section of the website but rather an ending to the website with social media links and copywriting information.
+
+### Skeleton
+
+
+
+**Wireframe**
+
+
+
+### Surface
+
+
+
+_Main color palette_
+
+![Main color Palette]()
+
+## Technologies
+
+
+
 ## Credit
 
 * Font url was taken from "https://www.cdnfonts.com/monster-hunter.font"
