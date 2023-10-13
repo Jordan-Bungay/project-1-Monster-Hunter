@@ -22,15 +22,15 @@ The goal of this website is to get people interested in this game and to get rec
 * As a user, I want to be able to join a group for frequent content updates and upcoming events.
 * As a user, I want to learn tips and tricks from other people who play this game in a community.
 
-### Strategy
+## Strategy
 
 I want the website to be user-friendly and easy to use on all platforms, the users need to be able to navigate through the website and get the information and content they have come for without difficulty.
 
-### Scope
+## Scope
 
 For the users, I want them to see brief introduction to what the game entails without having too much information but enough to get them wanting more. Having a way of joining a social community to extra content is a good way of making it so they are then actively looking rather than throwing it in their face. Having lots of pictures but having the balance between the text and images is key.
 
-### Structure
+## Structure
 
 The structure of this website is in a long single page with different sections to scroll to, as it is better for the user experience when being introduced to a game for the first time. In the header I have the navigation bar that follows you down the page making it easy to navigate to any section wherever you are on the page.
 
@@ -42,21 +42,35 @@ The structure of this website is in a long single page with different sections t
 4. **_Areas:_** The Areas section show cases the different kinds of areas you will go to.
 5. **_Contact:_** The contact section gives you the input fields for basic user information and a bit of fun with choosing a weapon type, there is also the social media links you can click on to go straight to the page.
 
-### Skeleton
+## Skeleton
 
-
+I designed the website to be simple but show case all the relevant information and pictures required to get the users interested.
 
 **Wireframe**
 
+I used balsamiq software recommended by my mentor to create my wireframe for my website. The wireframe shows the very basic structure of what I saw in my head and gave guidence in to how i wanted my website structured.
 
+You can view the screenshots from my wireframe from clicking the following:
 
-### Surface
+[Click me](assets/readme-assets/Wireframe-screenshot-1.png)
 
+[click me](assets/readme-assets/Wireframe-screenshot-2.png)
 
+[Click me](assets/readme-assets/Wireframe-screenshot-3.png)
 
-_Main color palette_
+[Click me](assets/readme-assets/Wireframe-screenshot-4.png)
 
-![Main color Palette]()
+[Click me](assets/readme-assets/Wireframe-screenshot-5.png)
+
+[Click me](assets/readme-assets/Wireframe-screenshot-6.png)
+
+## Surface
+
+The Colors I have used in the website are used to match the theme of the images, and matches the main colors seen in the game. I chose the color of silver mainly for the weapons section, as it is the colour of steel and wanted to have that relation in the website.
+
+### Color palette used:
+
+![Color palette used](assets/readme-assets/Color-palette.png)
 
 ## Technologies
 
