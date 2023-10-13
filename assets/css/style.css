@@ -194,6 +194,7 @@ form {
 .weapon-choice {
     display: flex;
     justify-content: center;
+    text-align: left;
 }
 
 .weapon-choice-button {
