@@ -193,6 +193,10 @@ form {
     text-align: left;
 }
 
+.weapon-choice-space {
+    padding: 5px;
+}
+
 .weapon-choice-button {
     margin-top: 7px;
 }
