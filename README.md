@@ -78,6 +78,54 @@ I have used HTML for the main page structure, images and text content.
 I have used CSS for the styling and positioning of all the HTML content.
 I have used Balsamiq for the wireframe plan of my website.
 
+## Features
+
+**Navigation Bar**
+
+
+
+![navigation bar](assets/readme-assets/Navigation-bar.png)
+
+**Monster Hunter(Home)**
+
+
+  
+![Monster Hunter (home section)](assets/readme-assets/Monster-Hunter(Home).png)
+
+**Monsters**
+
+
+
+![Monsters section](assets/readme-assets/Monsters%20section(1).png)
+
+![Monsters section](assets/readme-assets/Monsters-section(2).png)
+
+**Weapons**
+
+
+
+![Weapons section](assets/readme-assets/Weapons.png)
+
+**Areas**
+
+
+
+![Areas section](assets/readme-assets/Areas(1).png)
+
+![Areas section](assets/readme-assets/Areas(2).png)
+
+![Areas section](assets/readme-assets/Areas(3).png)
+
+![Areas section](assets/readme-assets/Areas(4).png)
+
+**Contact**
+
+
+
+![contact section](assets/readme-assets/Contact-section(1).png)
+
+![contact section](assets/readme-assets/Contact-section(2).png)
+
 ## Credit
 
 * Font url was taken from "https://www.cdnfonts.com/monster-hunter.font"
