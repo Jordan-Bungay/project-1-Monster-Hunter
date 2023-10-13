@@ -16,6 +16,12 @@ The Users targetted by this website are, Gamers and content creators. I want peo
 
 The goal of this website is to get people interested in this game and to get recognised as a good content provider on the internet. The following points are from my user point of view:
 
+* As a user, I want to be able to open the website and navigate easily.
+* As a user, I want to see what the monster hunter game is all about.
+* As a user, I want see what kind of content there is in the game.
+* As a user, I want to be able to join a group for frequent content updates and upcoming events.
+* As a user, I want to learn tips and tricks from other people who play this game in a community.
+
 ### Strategy
 
 
