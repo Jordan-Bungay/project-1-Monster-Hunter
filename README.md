@@ -10,11 +10,11 @@ The sections on this website will give you a peak into the games purpose, types 
 
 ## UX
 
-
+The Users targetted by this website are, Gamers and content creators. I want people to use my website for reccomendations and to get more people to join the social media pages. My website is easy to use and to get someone interested quickly without too much information to overwhelm you. A lot of pictures are used to keep the audience engaged and to showcase what will be awaiting you in the game.
 
 ## User stories
 
-
+The goal of this website is to get people interested in this game and to get recognised as a good content provider on the internet. The following points are from my user point of view:
 
 ### Strategy
 
