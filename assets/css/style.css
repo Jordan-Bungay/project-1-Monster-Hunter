@@ -179,16 +179,12 @@ form {
     text-align: center;
 }
 
-#first-name {
-    padding-right: 20px;
-}
-
-#last-name {
-    padding-right: 22px;
-}
-
 .user-details {
     margin-top: 7px;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    padding-left: 24px;
 }
 
 .weapon-choice {
