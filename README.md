@@ -146,6 +146,17 @@ I have used Balsamiq for the wireframe plan of my website.
 * I confirmed that the navigation and the sections Monster Hunter, Monsters, Weapons, Areas, and Contact are readable and easy to understand.
 * I confirmed that the form works, it requires entries in every field, only accepts an email in the email field and the submit button works.
 
+## Validator Testing
+
+**HTML**
+  No errors were found when passing through the official [W3C validator](assets)
+
+**CSS**
+  No errors were found when passing through the official [(Jigsaw) validator](assets)
+  
+**Accessibility**
+  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](assets)
+
 ## Credit
 
 * Font url was taken from "https://www.cdnfonts.com/monster-hunter.font"
