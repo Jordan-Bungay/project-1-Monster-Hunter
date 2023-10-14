@@ -149,12 +149,15 @@ I have used Balsamiq for the wireframe plan of my website.
 ## Validator Testing
 
 **HTML**
+  
   No errors were found when passing through the official [W3C validator](assets/readme-assets/HTML-Validator-results.png)
 
 **CSS**
+  
   No errors were found when passing through the official [(Jigsaw) validator](assets/readme-assets/CSS-Validator-results.png)
   
 **Accessibility**
+  
   I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](assets/readme-assets/Lighthouse-results.png)
 
 ## Bugs
