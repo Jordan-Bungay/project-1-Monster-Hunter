@@ -140,6 +140,12 @@ I have used Balsamiq for the wireframe plan of my website.
 
 ## Testing
 
+* I tested the site, and it works in different web browsers Chrome, Firefox, and Microsoft Edge.
+* On mobile devices, I tested my site on a iPhone 12 with the Safari browser.
+* I confirmed that the site is responsive and functions on different screen sizes using the devtools device toolbar.
+* I confirmed that the navigation and the sections Monster Hunter, Monsters, Weapons, Areas, and Contact are readable and easy to understand.
+* I confirmed that the form works, it requires entries in every field, only accepts an email in the email field and the submit button works.
+
 ## Credit
 
 * Font url was taken from "https://www.cdnfonts.com/monster-hunter.font"
