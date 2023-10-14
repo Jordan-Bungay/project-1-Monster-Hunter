@@ -182,6 +182,8 @@ I used the following steps to deploy my project:
 
 ## Credit
 
+### Pictures
+
 * Font url was taken from "https://www.cdnfonts.com/monster-hunter.font"
 * Logo image was taken from "https://www.steamgriddb.com/icon/41405"
 * Form background image taken from "https://wall.alphacoders.com/big.php?i=135693"
@@ -192,3 +194,15 @@ I used the following steps to deploy my project:
 * Weapons image taken from "https://www.monsterhunter.com/world/pc/us/"
 * Images for areas section taken from "https://www.monsterhunter.com/world/us/"
 * icons used are from "https://fontawesome.com/"
+
+### Content
+
+* Some of the code for the form and header was taken from the [Love Running project]
+* Some of the Home section Code to allow the content to sit on top of the image was taken from [anjalee-kulasinghe](https://github.com/anjalee-kulasinghe/portfolio-project1-cv-website/blob/main/README.md?plain=1)
+
+### Acknowledgements
+
+* Inspiration is from [anjalee-kulasinghe](https://github.com/anjalee-kulasinghe/portfolio-project1-cv-website/blob/main/README.md?plain=1) project.
+* Ideas were taken from the Code Institute's Coffee House and Love Running projects.
+* The the Code Institute tutor support team for helping me with the correct guidance.
+* My mentor, Medale Oluwafemi, for his invaluable guidance.
