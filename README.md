@@ -82,19 +82,24 @@ I have used Balsamiq for the wireframe plan of my website.
 
 **Navigation Bar**
 
-
+* The navigation bar is fixed to the top of the screen and follows you down the page as you scroll.
+* On the left hand side is the logo which you are able to click on to take you to the start of the page.
+* On the right hand side is the navigation links Monster hunter, Monsters, Weapons, Areas and Contact. If you hover over them on larger screen sizes they will highlight and once clicked on will take you to the relevant section. On smaller screen sizes there is a icon on the right that you can click on to bring up a dropdown with the navigation links.
 
 ![navigation bar](assets/readme-assets/Navigation-bar.png)
 
 **Monster Hunter(Home)**
 
-
+* The Home section is called Monster Hunter Which gives a brief introduction to the game and what it's about.
+* The background image is of one of the monsters in the game and some hunters giving a feel for the kind of content you will see in game.
   
 ![Monster Hunter (home section)](assets/readme-assets/Monster-Hunter(Home).png)
 
 **Monsters**
 
-
+* The monsters section showcases large monsters, small monsters and icons of the monsters that you will see in game.
+* There is 3 images in this section, the main image being for the large monsters and 2 smaller images underneath showing the small monsters and icons that you will see in the game.
+* There is a title above each of the 3 images to show what they are.
 
 ![Monsters section](assets/readme-assets/Monsters%20section(1).png)
 
@@ -102,13 +107,16 @@ I have used Balsamiq for the wireframe plan of my website.
 
 **Weapons**
 
-
+* The Weapons section showcases the 14 different weapons you will be able to use in the game and give a brief introduction.
+* Under the description is an image showing the 14 different weapons you will encounter when playing.
 
 ![Weapons section](assets/readme-assets/Weapons.png)
 
 **Areas**
 
-
+* In this section you will be able to see the 6 different areas that you will visit in the game.
+* The names of the areas are on the left hand side of the images as you scroll down the page.
+* The images showing the areas are on the right hand side of the page as you scroll down the page.
 
 ![Areas section](assets/readme-assets/Areas(1).png)
 
@@ -120,7 +128,11 @@ I have used Balsamiq for the wireframe plan of my website.
 
 **Contact**
 
-
+* The contact section is a way of the user to get more information by joining a community for future content.
+* This section gives a bit of text to draw the user in to want to join the community.
+* There are the input fields for the users details first name, last name and email address.
+* There are some buttons for the user to select to ask what kind of weapon they like the look of.
+* Lastly the social media links to the pages are at the buttom for the user to go and visit.
 
 ![contact section](assets/readme-assets/Contact-section(1).png)
 
